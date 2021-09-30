@@ -1,0 +1,1 @@
+Negligible - asymptotically smaller than any inverse polynomial function
